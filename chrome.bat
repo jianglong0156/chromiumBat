@@ -1,0 +1,3 @@
+I:/chrome/chromium/src/out/Release/chrome.exe http://127.0.0.1:8000/index.html --cocos-game-url=http://127.0.0.1:8000/index.html --cocos-debug-dir=I:\allversion\cocos2d-js-v3.6\samples\MyJSGame
+#remote debug command
+#I:/chrome/chromium/src/out/Release/chrome.exe --remote-debugging-port=9222 --no-first-run --user-data-dir=C:\Users\%username%\chrome-dev-profile http://127.0.0.1:8088/index.html http://localhost:9222

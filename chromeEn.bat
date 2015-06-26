@@ -1,0 +1,1 @@
+I:/chrome/chromium/src/out/Release/chrome.exe --lang=en-us --cocos-game-url=http://127.0.0.1:8000/index.html --cocos-debug-dir=I:\allversion\cocos2d-js-v3.6\samples\MyJSGame 
