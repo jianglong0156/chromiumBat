@@ -1,1 +1,1 @@
-I:/chrome/chromium/src/out/Debug/chrome.exe --remote-debugging-port=9222
+I:/chrome/chromium/src/out/Release/chrome.exe --remote-debugging-port=9222
